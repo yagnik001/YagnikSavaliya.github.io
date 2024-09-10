@@ -54,8 +54,8 @@ $(document).ready(function () {
       strings: [
         "Web Developer",
         "PHP Developer",
-        "Administration ",
-        "Leadership"
+        "Administrator ",
+        "Technical Support Engineer"
       ],
       typeSpeed: 100,
       backSpeed: 60,
